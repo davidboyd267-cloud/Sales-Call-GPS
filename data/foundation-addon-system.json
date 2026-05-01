@@ -1,0 +1,32 @@
+{
+  "hookTemplates": [
+    "If you're a {{avatar}} and {{outcome}} feels impossible, start here.",
+    "Most {{avatar}} overcomplicate {{pillar}}. Here's the simple version.",
+    "You're not lazy. You're missing this one {{bucket}} system."
+  ],
+  "scriptTemplates": [
+    "Talk to one person: '{{avatar}} who wants {{outcome}}'. Share one truth, one example, one next step.",
+    "Open with the pain. Reframe with warm truth. End with one action they can do today.",
+    "Use everyday language. Keep one strong point. Make it feel like a voice note."
+  ],
+  "captionTemplates": [
+    "Quick reminder for {{avatar}}: {{outcome}} doesn't need perfect, just repeatable.",
+    "You don't need more motivation. You need a tiny plan you can repeat on busy days.",
+    "If this felt like you, save this and send it to a friend who needs it."
+  ],
+  "shotListTemplates": [
+    "A-cam talking head intro",
+    "Cut-in of gym movement tied to the point",
+    "On-screen checklist with one simple step"
+  ],
+  "brollIdeas": [
+    "Meal prep container close-up + voiceover",
+    "Walking into gym, tying shoes, loading bar",
+    "Whiteboard plan for the week"
+  ],
+  "dmReplyStyles": {
+    "soft": "Warm, reassuring, no pressure.",
+    "direct": "Straight to the point, clear next step.",
+    "deeperQualification": "Ask one deeper question that reveals urgency and fit."
+  }
+}
