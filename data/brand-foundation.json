@@ -1,0 +1,21 @@
+{
+  "buckets": ["Mindset", "Training", "Nutrition", "Lifestyle"],
+  "avatarLanes": ["Busy moms", "Corporate professionals", "Beginners", "Postpartum women"],
+  "outcomeLanes": ["Fat loss", "Consistency", "Strength", "Confidence"],
+  "contentFormats": ["Talking head", "Gym form check", "Story-time", "Carousel", "B-roll + voiceover"],
+  "feelings": ["Seen", "Supported", "Motivated", "Capable"],
+  "pillars": ["Identity first", "Simple systems", "Honest coaching", "Long-term consistency"],
+  "voiceModes": ["Coach", "Big brother", "Inside voice", "Direct truth"],
+  "ctas": ["Comment 'PLAN' and I'll send the framework.", "DM me 'RESET' and I'll help you simplify this.", "Save this and use it on your next gym day."],
+  "foundationRules": [
+    "Clear subject in first 3 seconds",
+    "One idea only",
+    "One viewer",
+    "Warm truth",
+    "Simple words",
+    "No em dashes",
+    "Not too clean",
+    "Makes viewer feel seen or helped",
+    "Has CTA"
+  ]
+}
